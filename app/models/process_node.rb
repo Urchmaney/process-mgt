@@ -1,0 +1,2 @@
+class ProcessNode < Node
+end

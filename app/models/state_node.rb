@@ -1,0 +1,3 @@
+class StateNode < Node
+
+end
